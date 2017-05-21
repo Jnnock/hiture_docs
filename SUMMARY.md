@@ -9,16 +9,16 @@
     * [资源查重](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-yuan-cha-zhong.md)
     * [资源跟进](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-yuan-gen-jin.md)
   * [统计模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai.md)
-    * 签约统计
-    * 未签约统计
-    * 统计报表（总监）
-    * 积分统计
-    * 统计日报（总监、组长）
-    * 竞争对手分析统计（总监）
-    * 活动转化率统计（总监）
-    * 考点资源统计（总监）
     * [用户资源统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/yong-hu-zi-yuan-tong-ji.md)
-    * 用户数据统计
+    * [用户数据统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/yong-hu-shu-ju-tong-ji.md)
+    * [签约统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/qian-yue-tong-ji.md)
+    * [未签约统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/wei-qian-yue-tong-ji.md)
+    * [统计报表（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/tong-ji-bao-biao-ff08-zong-jian-ff09.md)
+    * [积分统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/ji-fen-tong-ji.md)
+    * [统计日报（总监、组长）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/tong-ji-ri-bao-ff08-zong-jian-3001-zu-chang-ff09.md)
+    * [竞争对手分析统计（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/jing-zheng-dui-shou-fen-xi-tong-ji-ff08-zong-jian-ff09.md)
+    * [活动转化率统计（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/huo-dong-zhuan-hua-lv-tong-ji-ff08-zong-jian-ff09.md)
+    * [考点资源统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/kao-dian-zi-yuan-tong-ji.md)
   * [管理模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai.md)
     * [人员管理（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/ren-yuan-guan-li-ff08-zong-jian-ff09.md)
     * [任务量安排（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/ren-wu-liang-an-pai-ff08-zong-jian-ff09.md)
