@@ -5,11 +5,31 @@
   * [用例分析](yong-li-fen-xi.md)
 * [和创CS销售端模块规划](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua.md)
   * [资源池模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai.md)
+    * [资源录入](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-yuan-lu-ru.md)
+    * [资源查重](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-yuan-cha-zhong.md)
+    * [资源跟进](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-yuan-gen-jin.md)
   * [统计模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai.md)
+    * 签约统计
+    * 未签约统计
+    * 统计报表（总监）
+    * 积分统计
+    * 统计日报（总监、组长）
+    * 竞争对手分析统计（总监）
+    * 活动转化率统计（总监）
+    * 考点资源统计（总监）
+    * [用户资源统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/yong-hu-zi-yuan-tong-ji.md)
+    * 用户数据统计
   * [管理模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai.md)
+    * [人员管理（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/ren-yuan-guan-li-ff08-zong-jian-ff09.md)
+    * [任务量安排（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/ren-wu-liang-an-pai-ff08-zong-jian-ff09.md)
+    * [原因管理（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/yuan-yin-guan-li-ff08-zong-jian-ff09.md)
+    * [资源转出管理（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/zi-yuan-zhuan-chu-guan-li-ff08-zong-jian-ff09.md)
+    * [重复资源管理](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/zhong-fu-zi-yuan-guan-li.md)
   * [搜索模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/sou-suo-mo-kuai.md)
   * [通知模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-zhi-mo-kuai.md)
-  * 积分模块
+  * [积分模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/ji-fen-mo-kuai.md)
+    * [扣分机制](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/ji-fen-mo-kuai/kou-fen-ji-zhi.md)
+    * [加分机制](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/ji-fen-mo-kuai/jia-fen-ji-zhi.md)
 * [和创CS销售端其他说明](he-chuang-cs-xiao-shou-duan.md)
   * [状态码](he-chuang-cs-xiao-shou-duan/zhuang-tai-ma.md)
   * [权限说明](he-chuang-cs-xiao-shou-duan/quan-xian-shuo-ming.md)
