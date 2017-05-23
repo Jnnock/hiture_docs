@@ -22,7 +22,7 @@
     * [竞争对手分析统计（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/jing-zheng-dui-shou-fen-xi-tong-ji-ff08-zong-jian-ff09.md)
     * [活动转化率统计（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/huo-dong-zhuan-hua-lv-tong-ji-ff08-zong-jian-ff09.md)
     * [考点资源统计（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/kao-dian-zi-yuan-tong-ji.md)
-    * [本月已签约](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/ben-yue-yi-qian-yue.md)
+    * [个人常用](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/ben-yue-yi-qian-yue.md)
   * [管理模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai.md)
     * [人员管理（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/ren-yuan-guan-li-ff08-zong-jian-ff09.md)
     * [任务量安排（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/ren-wu-liang-an-pai-ff08-zong-jian-ff09.md)
