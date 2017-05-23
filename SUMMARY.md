@@ -10,7 +10,7 @@
     * [资源跟进](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-yuan-gen-jin.md)
     * [签约信息表](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/qian-yue-xin-xi-biao.md)
     * [付款记录表](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/fu-kuan-ji-lu.md)
-    * 申请信息/常见问题表
+    * [申请信息/常见问题表](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/shen-qing-xin-606f-chang-jian-wen-ti-biao.md)
   * [统计模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai.md)
     * [用户资源统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/yong-hu-zi-yuan-tong-ji.md)
     * [用户数据统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/yong-hu-shu-ju-tong-ji.md)
@@ -29,6 +29,7 @@
     * [原因管理（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/yuan-yin-guan-li-ff08-zong-jian-ff09.md)
     * [资源转出管理（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/zi-yuan-zhuan-chu-guan-li-ff08-zong-jian-ff09.md)
     * [重复资源管理](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/zhong-fu-zi-yuan-guan-li.md)
+    * [个人信息管理](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/ge-ren-xin-xi-guan-li.md)
   * [搜索模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/sou-suo-mo-kuai.md)
   * [通知模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-zhi-mo-kuai.md)
   * [积分模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/ji-fen-mo-kuai.md)
