@@ -11,6 +11,7 @@
     * [签约信息表](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/qian-yue-xin-xi-biao.md)
     * [付款记录表](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/fu-kuan-ji-lu.md)
     * [申请信息/常见问题表](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/shen-qing-xin-606f-chang-jian-wen-ti-biao.md)
+    * [资源自动分配](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-dong-fen-pei.md)
   * [统计模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai.md)
     * [用户资源统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/yong-hu-zi-yuan-tong-ji.md)
     * [用户数据统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/yong-hu-shu-ju-tong-ji.md)
@@ -38,4 +39,5 @@
 * [和创CS销售端其他说明](he-chuang-cs-xiao-shou-duan.md)
   * [状态码](he-chuang-cs-xiao-shou-duan/zhuang-tai-ma.md)
   * [权限说明](he-chuang-cs-xiao-shou-duan/quan-xian-shuo-ming.md)
+  * [标签与项目关系](he-chuang-cs-xiao-shou-duan/biao-qian-yu-xiang-mu-guan-xi.md)
 
