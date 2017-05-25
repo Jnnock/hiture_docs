@@ -3,6 +3,7 @@
 * [和创CS销售端介绍](README.md)
   * [功能表](gong-neng-biao.md)
   * [用例分析](yong-li-fen-xi.md)
+  * [开发顺序](kai-fa-shun-xu.md)
 * [和创CS销售端模块规划](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua.md)
   * [资源池模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai.md)
     * [资源录入](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-yuan-lu-ru.md)
