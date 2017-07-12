@@ -44,4 +44,5 @@
   * [标签与项目关系](he-chuang-cs-xiao-shou-duan/biao-qian-yu-xiang-mu-guan-xi.md)
   * [对外接口](he-chuang-cs-xiao-shou-duan/dui-wai-jie-kou.md)
 * [和创CS财务端说明](he-chuang-cs-cai-wu-duan-shuo-ming.md)
+* [和创CS北美端说明](he-chuang-cs-bei-mei-duan-shuo-ming.md)
 
