@@ -6,6 +6,6 @@ Graduate 学科方向：理工、文科、商科。
 BOB、B-Graduate学科方向均为：理工、文、商。
 B-HGCP转学没有相应的学科方向。
 
+- 其中BOB、B-Graduate、B-HGCP转学为和创北美项目下的标签。
 - 目前一共有六个项目：HGCP、Graduate、HArt、ONPS、HiU、和创北美。
 - 和创北美项目录入的客户会分配给北美组。
-
