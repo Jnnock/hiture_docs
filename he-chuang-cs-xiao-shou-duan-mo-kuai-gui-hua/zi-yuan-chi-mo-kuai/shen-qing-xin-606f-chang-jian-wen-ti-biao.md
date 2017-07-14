@@ -13,4 +13,5 @@
 - 在签约后由销售去要求客户填写表格。
 - 客户同时签约HGCP、HArt或者HGCP、Graduate则需要填写两套信息表，对于同时签约HArt、Graduate填写一套表格即可。
 - 统一项目下的标签标记签约后，只填写一次信息表即可，同时签约HGCP、HArt或者HGCP、Graduate时需要给两张不同的表格填写两次，对于同时签约HArt、Graduate来说，表格内容相同，客户只填写一次即可。
+- 北美项目的所有服务内容跟和创的项目一样，表单应该使用同一个表单。B-Graduate、BOB使用Graduate表单，B-HGCP转学使用HGCP表单。
 
