@@ -14,7 +14,7 @@
     * [付款记录表](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/fu-kuan-ji-lu.md)
     * [申请信息/常见问题表](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/shen-qing-xin-606f-chang-jian-wen-ti-biao.md)
     * [资源分配](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-dong-fen-pei.md)
-    * 资源跟进情况
+    * [资源列表](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-yuan-gen-jin-qing-kuang.md)
   * [统计模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai.md)
     * [用户资源统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/yong-hu-zi-yuan-tong-ji.md)
     * [用户数据统计](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-ji-mo-kuai/yong-hu-shu-ju-tong-ji.md)
