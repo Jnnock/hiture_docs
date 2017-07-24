@@ -9,6 +9,7 @@
     * [资源录入](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-yuan-lu-ru.md)
     * [资源查重](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-yuan-cha-zhong.md)
     * [资源跟进](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/zi-yuan-gen-jin.md)
+    * [活动资源](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/huo-dong-zi-yuan.md)
     * [签约信息表](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/qian-yue-xin-xi-biao.md)
     * [付款记录表](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/fu-kuan-ji-lu.md)
     * [申请信息/常见问题表](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/zi-yuan-chi-mo-kuai/shen-qing-xin-606f-chang-jian-wen-ti-biao.md)
