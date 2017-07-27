@@ -34,7 +34,7 @@
     * [重复资源管理](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/zhong-fu-zi-yuan-guan-li.md)
     * [个人信息管理](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/ge-ren-xin-xi-guan-li.md)
     * [积分管理（总监）](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/ji-fen-guan-li.md)
-    * [合同管理](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/he-tong-guan-li.md)
+    * [签约管理](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/guan-li-mo-kuai/he-tong-guan-li.md)
   * [搜索模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/sou-suo-mo-kuai.md)
   * [通知模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/tong-zhi-mo-kuai.md)
   * [积分模块](he-chuang-cs-xiao-shou-duan-mo-kuai-gui-hua/ji-fen-mo-kuai.md)
